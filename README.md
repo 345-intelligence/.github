@@ -31,7 +31,7 @@ Our frameworks are built on three core pillars:
 
 We believe in sharpening the axe. We publish deep-dives on DAX patterns, infrastructure data modeling, and operational strategy on our Substack.
 
-👉 **[Read The 345 Report](https://the345report.substack.com)**
+👉 **[Read The 345 Report](https://www.the345report.com)**
 
 ---
 
