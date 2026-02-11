@@ -1,25 +1,17 @@
-# 345 Intelligence | Resource Hub
+# 345 Intelligence
 
-This repository contains the code frameworks and architectural patterns for the **345 Methodology**—a logic-first approach to stabilizing real-time operational data.
+This repository contains the code frameworks and architectural patterns for operations intelligence at scale.
 
-### 📍 Project Links
-* **The 345 Report (Newsletter):** [Link] - Deep dives into operational drift and data architecture.
-* **The White Paper:** [Link] - Technical standards for the "Temporal Backbone."
-* **Resource Library (Templates):** [Link] - Implementation kits for DAX, M, and SQL.
+### 📍 Links
+* **The 345 Report:** [Link](https://the345report.com/) - Describing systems and patterns that solve operational pain at scale.
 
 ---
 
-### 🛠️ Framework Tiers
-These resources are organized by computational maturity to help solve "Target Drift" at different scales:
+### Why “345”?
+345 (three forty-five) refers to 345 kV (kilovolts), the backbone voltage of the electric transmission system in Texas and across most of the United States. These 345 kV lines form the critical interstate highways of the electric grid moving massive amounts of power efficiently from generation sources to load centers.
 
-1. **The DAX Skeleton (Free):** Logic-first framework for prototyping and localized reporting.
-2. **The ETL Pattern (M):** Logic hardened in Power Query for mid-market performance.
-3. **The Warehouse Pattern (SQL):** Enterprise-grade views for high-scale, tool-agnostic infrastructure.
+The name is a direct nod to my background in energy delivery. Here, I am building and learning in public and sharing lessons from the field to help others create reliable operations intelligence systems.
 
 ---
 
-### 🧪 Research Note
-All patterns are stress-tested against the public **Corporation Favorita (Ecuador)** retail dataset to ensure reliability at 100M+ row scale without using proprietary data.
-
----
-*Independent research into universal data architectures.*
+*This README will grow over time, as we build it out.*  
