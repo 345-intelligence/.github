@@ -14,4 +14,4 @@ The name is a direct nod to my background in energy delivery. Here, I am buildin
 
 ---
 
-*This README will grow over time, as we build it out.*  
+*This README will grow over time, as I build it out.*  
